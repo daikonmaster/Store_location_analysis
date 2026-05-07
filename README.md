@@ -1,7 +1,7 @@
 # Store_location_analysis
 Geospatial analysis for Silpo store location in Kyiv
 
-## To view complete notebook with maps click here: 
+## To view complete notebook with maps I recommedn domloading it, as it will not probably render maps on Github
 
 ## Project Overview
 This project analyses the correlation between population metric and store performance metric, builds a location scoring model, and recommends top locations for new stores.
@@ -37,6 +37,10 @@ Higher score = higher demand, better metro access, lower competition.
 - **ML prediction**: with more features (store size, rent, foot traffic) could predict store performance score for any location
 - **Geographically Weighted Regression (GWR)**: coefficients vary spatially — the impact of population density may differ between city centre and periphery
 - **Huff Model**: probabilistic model of customer store choice based on distance and store size
+
+## Files for Power Bi
+- 1 pbix file
+- if needed 4 datasets: major_competitors, new_population, new_stores, THEtop_locations
 
 ## Tools
 Python · pandas · sklearn · statsmodels · folium · osmnx · Power BI
