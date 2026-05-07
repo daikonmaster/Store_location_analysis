@@ -2,6 +2,7 @@
 Geospatial analysis for Silpo store location in Kyiv
 
 ## To view complete notebook with maps I recommedn domloading it, as it will not probably render maps on Github
+(HTML maps also available)
 
 ## Project Overview
 This project analyses the correlation between population metric and store performance metric, builds a location scoring model, and recommends top locations for new stores.
