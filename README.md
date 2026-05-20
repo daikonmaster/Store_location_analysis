@@ -1,7 +1,7 @@
 # Store_location_analysis
 Geospatial analysis for Silpo store location in Kyiv
 
-## To view complete notebook with maps I recommedn domloading it, as it will not probably render maps on Github
+## To view complete notebook with maps I recommend downloading it, as it will not probably render maps on Github
 (HTML maps also available)
 
 ## Project Overview
